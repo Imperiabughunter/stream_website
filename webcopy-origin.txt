@@ -1,0 +1,72 @@
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\3.4-1.17
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://stream-africawebsite.vercel.app/logo.png
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\logo-1.png
+Content Type: image/png
+
+Uri: https://stream-africawebsite.vercel.app/payment.html
+File Name: C:\Downloaded Web Sites\stream-africawebsite.vercel.app\stream-africawebsite.vercel.app\payment.html
+Content Type: text/html
+
